@@ -1,0 +1,50 @@
+[
+  {
+    "sender": "hr@company.com",
+    "subject": "Upcoming performance review",
+    "body": "Please schedule a meeting with your manager to discuss the quarterly performance review.",
+    "label": "work"
+  },
+  {
+    "sender": "finance@company.com",
+    "subject": "Expense report deadline",
+    "body": "Submit your travel expenses by Friday to avoid delays in reimbursement.",
+    "label": "work"
+  },
+  {
+    "sender": "news@shopnow.com",
+    "subject": "Limited time discount on electronics",
+    "body": "Save 30% on selected gadgets when you shop before the weekend.",
+    "label": "promotions"
+  },
+  {
+    "sender": "family@example.org",
+    "subject": "Dinner on Sunday?",
+    "body": "Hey, are you free to come over for dinner this Sunday evening?",
+    "label": "personal"
+  },
+  {
+    "sender": "noreply@bank.com",
+    "subject": "Your monthly statement is ready",
+    "body": "View or download your statement securely from the online portal.",
+    "label": "finance"
+  },
+  {
+    "sender": "alerts@bank.com",
+    "subject": "Payment received",
+    "body": "We have received your payment for the credit card ending 1234.",
+    "label": "finance"
+  },
+  {
+    "sender": "spam@unknown.com",
+    "subject": "You have won a prize!!!",
+    "body": "Click this link to claim your reward now.",
+    "label": "spam"
+  },
+  {
+    "sender": "offers@travelsite.com",
+    "subject": "Cheap flights to Hawaii",
+    "body": "Plan your vacation with discounted flights and hotel packages.",
+    "label": "promotions"
+  }
+]

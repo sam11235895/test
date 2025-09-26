@@ -1,0 +1,17 @@
+[
+  {
+    "sender": "marketing@shopnow.com",
+    "subject": "Extra 15% off your favourite brands",
+    "body": "Final chance to grab deals before they expire."
+  },
+  {
+    "sender": "ceo@company.com",
+    "subject": "All hands meeting next week",
+    "body": "Please prepare an update on your current projects."
+  },
+  {
+    "sender": "alerts@bank.com",
+    "subject": "Security notification",
+    "body": "We noticed a login from a new device and wanted to confirm it was you."
+  }
+]
