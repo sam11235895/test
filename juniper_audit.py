@@ -12,9 +12,9 @@ The inventory file is expected to be a YAML document with the following
 structure::
 
     devices:
-      - host: 192.0.2.10
-        username: netadmin
-        password: secret
+      - host: 172.31.84.200
+        username: root
+        password: hauman@12223097
         device_name: access-switch-01
         port: 22  # optional, defaults to 22
 
